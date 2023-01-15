@@ -1,6 +1,22 @@
-# Coursework completed through CAPP 121 and CAPP 122
+# Relevant Coursework
 
-[Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html)
+## CAPP 121: Computer Science with Applications 1
+
+Programming Assignments:
+* [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) (Introduction to Programming)
+  * Skills used: 
+* [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) (Introduction to Programming)
+  * Skills used: 
+* [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) (Introduction to Programming)
+  * Skills used:
+* [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) (Introduction to Programming)
+  * Skills used: 
+* [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) (Introduction to Programming)
+  * Skills used: 
+* [Modeling Epidemics](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa1/index.html) (Introduction to Programming)
+  * Skills used:
 
 
-(Introduction to Programming)
+## CAPP 122: Computer Science with Applications 2
+
+Programming Assignments:
