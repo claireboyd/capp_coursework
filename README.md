@@ -28,7 +28,7 @@ Programming Assignments:
 ## CAPP 122: Computer Science with Applications 2
 
 Programming Assignments:
-* [Markovian Candidate]() (Program Structure)
+* [Markovian Candidate](https://github.com/claireboyd/capp_coursework/tree/main/capp_122/markovian_candidate) (Program Structure)
   * *Summary:* 
   * *Topics covered:* 
 * [Scraping Chicago Parks]() (Web Scraping)
