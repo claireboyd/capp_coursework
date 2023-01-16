@@ -1,6 +1,6 @@
 # Relevant Coursework
 
-Code for the following assignments are available upon request. For access, feel free to email me at [ckboyd@uchicago.edu](mailto:ckboyd@uchicago.edu).
+Code for the following assignments are available upon request. For access to the private repos with my work, feel free to email me at [ckboyd@uchicago.edu](mailto:ckboyd@uchicago.edu).
 
 ## CAPP 121: Computer Science with Applications 1
 
