@@ -1,6 +1,6 @@
 # Relevant Coursework
 
-Code for the following assignments are available upon request. Feel free to email me at [ckboyd@uchicago.edu](mailto:ckboyd@uchicago.edu).
+Code for the following assignments are available upon request. For access, feel free to email me at [ckboyd@uchicago.edu](mailto:ckboyd@uchicago.edu).
 
 ## CAPP 121: Computer Science with Applications 1
 
@@ -29,12 +29,11 @@ Programming Assignments:
 
 Programming Assignments:
 * [Markovian Candidate](https://github.com/claireboyd/capp_coursework/tree/main/capp_122/markovian_candidate) (Program Structure)
-  * *Summary:* 
-  * *Topics covered:* 
-* [Scraping Chicago Parks]() (Web Scraping)
-  * *Summary:* 
-  * *Topics covered:* 
+  * *Summary:* For this assignment, I explored the basics of software organization & structure in a Python program. I developed a modeling system using Markov Models, which can be used to capture the statistical relationships present in a language like English. One application of Markov models is in analyzing actual text and assessing the likelihood that a particular person uttered it. For this assignment, we used speeches from presential candidates to figure out which candidate was more likely to deliver each speech. I implemented this using custom hash tables by writing my own hash function.
+  * *Topics covered:* hash tables, virtual environments, creating modules, abstract classes, interfaces
+* [Scraping Chicago Parks](https://github.com/claireboyd/capp_coursework/tree/main/capp_122/scraping_chicago_parks) (Web Scraping)
+  * *Summary:* I built a scraper that crawls a simulacrum of the Chicago Parks website to construct a search index. The assignment gave me experience building a real-world crawler that works with HTML documents as well as additional practice composing a Python application.
+  * *Topics covered:* data formats (binary, text-based), HTTP requests, web scraping, APIs, HTML parsing, CSS selectors, 
 
-
-
+  ...*more to come*...
 
