@@ -35,5 +35,5 @@ Programming Assignments:
   * *Summary:* I built a scraper that crawls a simulacrum of the Chicago Parks website to construct a search index. The assignment gave me experience building a real-world crawler that works with HTML documents as well as additional practice composing a Python application.
   * *Topics covered:* data formats (binary, text-based), HTTP requests, web scraping, APIs, HTML parsing, CSS selectors, 
 
-  ...*more to come*...
+...*more to come*...
 
