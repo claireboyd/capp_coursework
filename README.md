@@ -34,6 +34,12 @@ Programming Assignments:
 * [Scraping Chicago Parks](https://github.com/claireboyd/capp_coursework/tree/main/capp_122/scraping_chicago_parks) (Web Scraping)
   * *Summary:* I built a scraper that crawls a simulacrum of the Chicago Parks website to construct a search index. The assignment gave me experience building a real-world crawler that works with HTML documents as well as additional practice composing a Python application.
   * *Topics covered:* data formats (binary, text-based), HTTP requests, web scraping, APIs, HTML parsing, CSS selectors
-
-...*more to come*...
-
+* [Chicago Parks Search Engine](https://github.com/claireboyd/capp_coursework/tree/main/capp_122/chicago_parks_search_engine) (Querying in SQLite)
+  * *Summary:* I built a simple search engine to query a database of chicago public parks. The assignment gave me experience using regular expressions, building simple to complex queries uqing SQLite, and better understanding of the connection between backend data work and user interface and design.
+  * *Topics covered:* SQL queries, regular expressions, user interface and design
+* [Fuzzy Matching Paycheck Protection Program (PPP) with Illinois Campaign Finance Data](https://github.com/claireboyd/capp_coursework/tree/main/capp_122/record_linkage) (Data Linkage)
+  * *Summary:* I implemented [Jaro-Winkler](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance) similarity to fuzzy match organizations in two different datasets. The assignment gave me the opportunity to faciliate a data cleaning process, use simple to complex regular expressions, and think through different ways to a single (and expensive) data task for computational efficiency.
+  * *Topics covered:* data linkage, fuzzy matching, regular expressions, computational efficiency
+* [Predicting Diabetes with Decision Trees](https://github.com/claireboyd/capp_coursework/blob/main/capp_122/decision_trees/README.Md) (Introduction to Machine Learning Models)
+  * *Summary:* For this assignment, I learned how to build a recursive, decision tree model for a binary classificaiton task (does a person with given characteristics have diabetes or not?). This last assignment taught me the importance of non-linear activation functions, how to incorporate tie breakers, and (more generally) start building an intuition behind what machine learning models can help do successfully.
+  * *Topics covered:* decision trees, recursion, train/test split, activation functions, information gain, gini coefficient
