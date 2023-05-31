@@ -10,7 +10,7 @@ Programming Assignments:
   * *Topics covered:* control flow statements (for loops, while loops), data types (lists, tuples, strings, integers, floats, booleans)
 * [Modeling Language Shifts](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa2/index.html) (Functions)
   * *Summary*: This assignment provided an introduction to defining and using functions. In this assignment, I implemented a variation of the language shift model described by Beltran, et al. in their paper [A Language Shift Simulation Based on Cellular Automata](https://www.researchgate.net/publication/259557981_A_Language_Shift_Simulation_Based_on_Cellular_Automata) to model how use of language shifts depending on neighborhood characteristics.
-  * *Topics covered:* anatomry of a function, default parameters, return statements, manual and automatic testing
+  * *Topics covered:* anatomy of a function, default parameters, return statements, manual and automatic testing
 * [Analyzing Candidate Tweets](https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/pa/pa3/index.html) (Dictionaires and File Basics)
   * *Summary:* This assignment provided an introduction to python dictionaries and working with multiple files. For this assignment, I analyzing tweets sent from the official Twitter accounts of four British political parties: the Conservative and Unionist Party (@Conservatives), the Labour Party (@UKLabour), the Liberal Democrats (@LibDems) and the Scottish National Party (@theSNP) during purdah. I looked at favorite hashtags, most frequent mentions, and most frequent phrases used by different political parties.
   * *Topics covered:* dictionaries, sets, nested dictionariess, comprehensions, decomposition, abstraction, k-mers
